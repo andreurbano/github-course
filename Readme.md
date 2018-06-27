@@ -5,5 +5,5 @@ Saiba mais em [willianjustem]
 
 Gostou do curso? Quer mais?
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UTMFZUHX6EUGE)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UTMFZUHX6EUGE)
 
